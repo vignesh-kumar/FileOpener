@@ -34,13 +34,4 @@
  
         <source-file src="src/android/FileOpener.java" target-dir="src/com/sysvine/fileopener" />      
      </platform>    
-
-            
-
-
-
-
-
-
-
 </plugin>
