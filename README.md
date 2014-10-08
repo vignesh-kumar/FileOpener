@@ -1,0 +1,1 @@
+Plugin to send values from PhoneGap to native, thereby opening the PDF.
